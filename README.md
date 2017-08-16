@@ -1,9 +1,10 @@
 # rest_api
 
 ## Run the project
-  - in the root folder - npm install
-  - start mongodb - sudo service mongod start
-  - run the app - node index
+  - npm install - in the root folder
+  - sudo service mongod start - start mongodb
+  - nodemon index.js - run the app
 
-## How to check mongodb running?
-  - service mongod status
+## MongoDB
+  - service mongod status - check mongodb running
+  - sudo service mongod stop - stop mongodb
