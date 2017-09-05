@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install -g nodemon"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,6 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "mongoose": "^4.11.7",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.12.0"
   }
 }
