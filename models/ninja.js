@@ -13,7 +13,7 @@ const GeoLocationSchema = new Schema({
   }
 });
 
-//create ninja schema and model
+//create ninja Schema and model
 const NinjaSchema = new Schema({
   name: {
     type: String,
